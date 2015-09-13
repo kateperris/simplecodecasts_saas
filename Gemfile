@@ -61,6 +61,8 @@ group :development, :test do
   
    #use figaro to hide secret keys
   gem 'figaro', '1.0.0'
+
+  gem 'font-awesome-sass', '4.2.0'
   
 end
 
